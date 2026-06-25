@@ -1,5 +1,5 @@
-data:
-  raw:
-    semiconductor_quarterly: "../data/raw/semiconductor_quarterly.csv"
-  clean:
-    semiconductor_quarterly: "../data/clean/semiconductor_quarterly_clean.csv"
+raw:
+ semiconductor_quarterly: "../data/raw/semiconductor_quarterly.csv"
+
+clean:
+  semiconductor_quarterly: "../data/clean/semiconductor_quarterly_clean.csv"
