@@ -3,3 +3,8 @@ raw:
 
 clean:
   semiconductor_quarterly: "../data/clean/semiconductor_quarterly_clean.csv"
+  feature_engineering: "../data/clean/feature_selection.csv"
+  ml1_results: "../data/clean/ml1_results.csv"
+
+outputs:
+  figures: "../data/graphs"
